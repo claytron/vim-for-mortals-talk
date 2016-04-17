@@ -22,6 +22,7 @@ Vim Evangelist
 ## [fit] ![inline][vim-logo] **is** hard.
 
 ^ Steep learning curve.
+Take it one step at a time.
 Here are some resources to help you out.
 
 -------------------------------------------------------------------------------
@@ -56,9 +57,21 @@ Get help for help itself.
 
 -------------------------------------------------------------------------------
 
+![][help]
+
+VimIndy Slack.
+
+`#vim` on Freenode.
+
+[Vi and Vim][vi-stackexchange] StackExchange.
+
+-------------------------------------------------------------------------------
+
 ![][sensible]
 
 Use [vim-sensible][vim-sensible] to start out.
+
+Or go all in with [Janus][janus].
 
 -------------------------------------------------------------------------------
 
@@ -84,6 +97,7 @@ Use [vim-sensible][vim-sensible] to start out.
 
 Plugins ([@chicagobart][plugins-credit])
 Sensible ([@matt_gibson][sensible-credit])
+Help ([@carbonated][help-credit])
 Links ([@volvob12b][links-credit])
 :arrow_left: This Picture ([@rhodes][images-credit])
 
@@ -108,6 +122,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [vim-tutor-mode]: https://github.com/fmoralesc/vim-tutor-mode
 [neovim]: https://neovim.io
 [vim-sensible]: https://github.com/tpope/vim-sensible/
+[janus]: https://github.com/carlhuda/janus/
+[vi-stackexchange]: https://vi.stackexchange.com
 
 [//]: # ( Online Videos                                                       )
 [//]: # ( ------------------------------------------------------------------- )
@@ -118,6 +134,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [plugins-credit]: https://flic.kr/p/7SQuUv
 [sensible]: images/sensible.jpg
 [sensible-credit]: https://flic.kr/p/dMBvmp
+[help]: images/help.jpg
+[help-credit]: https://flic.kr/p/3q8dM
 [links]: images/links.jpg
 [links-credit]: https://flic.kr/p/fTfXkN
 [images]: images/images.jpg
