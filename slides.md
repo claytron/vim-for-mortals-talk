@@ -92,6 +92,12 @@ and [![][cc-logo]][cc]
 
 ![left filtered][images]
 
+-------------------------------------------------------------------------------
+
+[![inline 400%][cc-by-sa-4-0-logo]][cc-by-sa-4-0]
+
+Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa-4-0].
+
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [vimindy]: https://twitter.com/vimindy
@@ -120,4 +126,10 @@ and [![][cc-logo]][cc]
 [cc]: https://creativecommons.org
 [flickr-logo]: images/flickr.png
 [flickr]: https://www.flickr.com
+
+[//]: # ( CC Attribution                                                      )
+[//]: # ( ------------------------------------------------------------------- )
+[cc-by-sa-4-0-logo]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-by-sa-4-0]: http://creativecommons.org/licenses/by-sa/4.0/
+
 [//]: # ( ------------------------------------------------------------------- )
