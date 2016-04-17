@@ -87,7 +87,31 @@ Or go all in with [Janus][janus].
 
 # Links
 
-[@VimIndy][vimindy]
+- [@VimIndy][vimindy]
+- [vim.org][vim]
+- [Neovim][neovim]
+
+![right filtered][links]
+
+-------------------------------------------------------------------------------
+
+### Screencasts
+
+- [Vimcasts][vimcasts]
+- [Derek Wyatt Tutorials][derek-wyatt-tutorials]
+
+![right filtered][links]
+
+-------------------------------------------------------------------------------
+
+### Articles / Books
+
+- [Learn Vim Progressively][learn-vim-progressively]
+- [Coming Home to Vim][coming-home-to-vim]
+- [Everyone Who Tried to Convince Me to use Vim was Wrong][yehuda-rant]
+- [Learn to Speak Vim][learn-to-speak-vim]
+- [Vim Text Objects: The Definitive Guide][vim-text-objects]
+- [Practical Vim][practical-vim]
 
 ![right filtered][links]
 
@@ -119,11 +143,20 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [claytron-avatar]: images/claytron.jpg
 [tinderbox]: images/TinderboxLogo.png
 [vim-logo]: images/vim-logo.png
+[vim]: http://www.vim.org/
 [vim-tutor-mode]: https://github.com/fmoralesc/vim-tutor-mode
 [neovim]: https://neovim.io
 [vim-sensible]: https://github.com/tpope/vim-sensible/
 [janus]: https://github.com/carlhuda/janus/
 [vi-stackexchange]: https://vi.stackexchange.com
+[vimcasts]: http://vimcasts.org/
+[derek-wyatt-tutorials]: http://derekwyatt.org/vim/tutorials/
+[learn-vim-progressively]: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+[coming-home-to-vim]: http://stevelosh.com/blog/2010/09/coming-home-to-vim/
+[yehuda-rant]: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
+[learn-to-speak-vim]: http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/
+[vim-text-objects]: http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
+[practical-vim]: https://pragprog.com/book/dnvim2/practical-vim-second-edition
 
 [//]: # ( Online Videos                                                       )
 [//]: # ( ------------------------------------------------------------------- )
