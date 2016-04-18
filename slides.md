@@ -29,6 +29,10 @@ Here are some resources to help you out.
 
 -------------------------------------------------------------------------------
 
+Don't `:quit!` just yet...
+
+-------------------------------------------------------------------------------
+
 `$ vimtutor`
 
 ^ Get used to the default controls.
@@ -52,10 +56,9 @@ Some plugins have written tutorials.
 
 -------------------------------------------------------------------------------
 
-`:tab help help`
+`:tab help intro`
 
 ^ Easier to read in a tab.
-Get help for help itself.
 
 -------------------------------------------------------------------------------
 
@@ -75,7 +78,17 @@ Use [vim-sensible][vim-sensible] to start out.
 
 Or go all in with [Janus][janus].
 
+^ Sensible is a nice starting point.
+Janus is over the top and opinionated.
+
 -------------------------------------------------------------------------------
+
+![][arrow-keys]
+
+# Arrow Keys?
+
+^ Don't worry about forcing `hjkl` at first!
+We want to make the switch as easy as possible.
 
 ![][plugins]
 
@@ -92,6 +105,7 @@ Or go all in with [Janus][janus].
 - [@VimIndy][vimindy]
 - [vim.org][vim]
 - [Neovim][neovim]
+- [Help always in a tab][vim-help-tab]
 
 ![right filtered][links]
 
@@ -121,14 +135,15 @@ Or go all in with [Janus][janus].
 
 # Photo Credits
 
+Title ([B.B. Wijdieks][title-credit])
 Plugins ([@chicagobart][plugins-credit])
 Sensible ([@matt_gibson][sensible-credit])
+Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 Help ([@carbonated][help-credit])
 Links ([@volvob12b][links-credit])
 :arrow_left: This Picture ([@rhodes][images-credit])
 
-Thanks to [![][flickr-logo]][flickr] 
-and [![][cc-logo]][cc]
+Thanks to [![][flickr-logo]][flickr]<br>and [![][cc-logo]][cc]
 
 ![left filtered][images]
 
@@ -151,6 +166,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [vim-sensible]: https://github.com/tpope/vim-sensible/
 [janus]: https://github.com/carlhuda/janus/
 [vi-stackexchange]: https://vi.stackexchange.com
+[vim-help-tab]: https://github.com/claytron/dotfiles/blob/bfb8a497f1fd770cbed612f9401a7a335736e8ff/.vimrc#L731
 [vimcasts]: http://vimcasts.org/
 [derek-wyatt-tutorials]: http://derekwyatt.org/vim/tutorials/
 [learn-vim-progressively]: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
@@ -171,6 +187,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [plugins-credit]: https://flic.kr/p/7SQuUv
 [sensible]: images/sensible.jpg
 [sensible-credit]: https://flic.kr/p/dMBvmp
+[arrow-keys]: images/arrow_keys.jpg
+[arrow-keys-credit]: https://flic.kr/p/7vSVVd
 [help]: images/help.jpg
 [help-credit]: https://flic.kr/p/3q8dM
 [links]: images/links.jpg
