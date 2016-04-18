@@ -140,6 +140,18 @@ Run commands, change settings, etc.
 
 -------------------------------------------------------------------------------
 
+![70%][speak-vim]
+
+# [fit] Vim! Do you **speak** it?
+
+^ Once you know the basics, learn to speak vim.
+
+-------------------------------------------------------------------------------
+
+TODO: Vim Text Objects, etc.
+
+-------------------------------------------------------------------------------
+
 ![][plugins]
 
 ## [fit] Plugins
@@ -225,6 +237,7 @@ Sensible ([@matt_gibson][sensible-credit])
 Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 Help ([@carbonated][help-credit])
 Modal ([@chrisobayda][modal-credit])
+Do you speak it? ([@reallyboring][speak-vim-credit])
 Plugins ([@chicagobart][plugins-credit])
 Pillaging ([Damian Gadal][pillaging-credit])
 Links ([@volvob12b][links-credit])
@@ -278,6 +291,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [help-credit]: https://flic.kr/p/3q8dM
 [modal]: images/modal.jpg
 [modal-credit]: https://flic.kr/p/bZDVDs
+[speak-vim]: images/speak_vim.jpg
+[speak-vim-credit]: https://flic.kr/p/5bwqyZ
 [plugins]: images/plugins.jpg
 [plugins-credit]: https://flic.kr/p/7SQuUv
 [pillaging]: images/pillaging.jpg
