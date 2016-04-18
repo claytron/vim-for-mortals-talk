@@ -1,5 +1,7 @@
 autoscale: true
 
+![][title]
+
 # [fit] Vim for
 # [fit] Mere Mortals
 
@@ -163,6 +165,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 
 [//]: # ( CC Images                                                           )
 [//]: # ( ------------------------------------------------------------------- )
+[title]: images/title.jpg
+[title-credit]: https://flic.kr/p/jaYcP6
 [plugins]: images/plugins.jpg
 [plugins-credit]: https://flic.kr/p/7SQuUv
 [sensible]: images/sensible.jpg
