@@ -205,6 +205,7 @@ call plug#end()
 - [Neovim][neovim]
 - [Help always in a tab][vim-help-tab]
 - [VIM: Hard Mode][hard-mode]
+- [vim-galore: Everything you need to know about Vim][vim-galore]
 
 ![right filtered][links]
 
@@ -272,6 +273,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [vi-stackexchange]: https://vi.stackexchange.com
 [vim-help-tab]: https://github.com/claytron/dotfiles/blob/bfb8a497f1fd770cbed612f9401a7a335736e8ff/.vimrc#L731
 [hard-mode]: https://github.com/wikitopian/hardmode
+[vim-galore]: https://github.com/mhinz/vim-galore
 [vimcasts]: http://vimcasts.org/
 [derek-wyatt-tutorials]: http://derekwyatt.org/vim/tutorials/
 [learn-vim-progressively]: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
