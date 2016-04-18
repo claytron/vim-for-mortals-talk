@@ -29,7 +29,7 @@ Here are some resources to help you out.
 
 -------------------------------------------------------------------------------
 
-Don't `:quit!` just yet...
+Don't rage `:quit!` just yet...
 
 -------------------------------------------------------------------------------
 
@@ -85,10 +85,11 @@ Janus is over the top and opinionated.
 
 ![][arrow-keys]
 
-# Arrow Keys?
+# **Arrow** Keys?
 
 ^ Don't worry about forcing `hjkl` at first!
 We want to make the switch as easy as possible.
+Turn on `hardmode` if you want.
 
 -------------------------------------------------------------------------------
 
@@ -114,7 +115,7 @@ We'll focus on these three.
 -------------------------------------------------------------------------------
 
 > How do you generate a random string?
-> Put a first year CS student in front of Vim and tell him to save and exit.
+> Put a first year CS student in front of Vim and tell them to save and exit.
 
 -------------------------------------------------------------------------------
 
@@ -189,11 +190,11 @@ call plug#end()
 
 ![][pillaging]
 
-# [fit] Pillaging `.vimrc`
+# [fit] Pillaging **`.vimrc`**
 
 -------------------------------------------------------------------------------
 
-# [fit] THE END
+# [fit] THE **END**
 
 -------------------------------------------------------------------------------
 
@@ -203,6 +204,7 @@ call plug#end()
 - [vim.org][vim]
 - [Neovim][neovim]
 - [Help always in a tab][vim-help-tab]
+- [VIM: Hard Mode][hard-mode]
 
 ![right filtered][links]
 
@@ -268,6 +270,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [spf13]: https://github.com/spf13/spf13-vim
 [vi-stackexchange]: https://vi.stackexchange.com
 [vim-help-tab]: https://github.com/claytron/dotfiles/blob/bfb8a497f1fd770cbed612f9401a7a335736e8ff/.vimrc#L731
+[hard-mode]: https://github.com/wikitopian/hardmode
 [vimcasts]: http://vimcasts.org/
 [derek-wyatt-tutorials]: http://derekwyatt.org/vim/tutorials/
 [learn-vim-progressively]: http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
