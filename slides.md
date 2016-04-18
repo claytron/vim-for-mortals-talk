@@ -76,7 +76,7 @@ VimIndy Slack.
 
 Use [vim-sensible][vim-sensible] to start out.
 
-Or go all in with [Janus][janus].
+Or go all in with [Janus][janus] or [spf13][spf13].
 
 ^ Sensible is a nice starting point.
 Janus is over the top and opinionated.
@@ -265,6 +265,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [neovim]: https://neovim.io
 [vim-sensible]: https://github.com/tpope/vim-sensible/
 [janus]: https://github.com/carlhuda/janus/
+[spf13]: https://github.com/spf13/spf13-vim
 [vi-stackexchange]: https://vi.stackexchange.com
 [vim-help-tab]: https://github.com/claytron/dotfiles/blob/bfb8a497f1fd770cbed612f9401a7a335736e8ff/.vimrc#L731
 [vimcasts]: http://vimcasts.org/
