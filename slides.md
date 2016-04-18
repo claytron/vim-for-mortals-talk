@@ -144,6 +144,35 @@ Run commands, change settings, etc.
 
 ## [fit] Plugins
 
+^ Enhance the editor.
+You will be doing this very soon.
+
+-------------------------------------------------------------------------------
+
+# **Plugin** Managers
+
+Pathogen
+Vundle
+**vim-plug**
+vim-addon-manager
+dein.vim
+Vizardry
+Vimana
+
+^ There are a lot of choices.
+Just use `vim-plug`!
+
+-------------------------------------------------------------------------------
+
+# Install **Plugins**
+
+```vim
+call plug#begin()
+Plug 'tpope/vim-sensible'
+Plug 'scrooloose/nerdtree'
+call plug#end()
+```
+
 -------------------------------------------------------------------------------
 
 # [fit] THE END
@@ -186,11 +215,11 @@ Run commands, change settings, etc.
 # Photo Credits
 
 Title ([B.B. Wijdieks][title-credit])
-Plugins ([@chicagobart][plugins-credit])
 Sensible ([@matt_gibson][sensible-credit])
 Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 Help ([@carbonated][help-credit])
 Modal ([@chrisobayda][modal-credit])
+Plugins ([@chicagobart][plugins-credit])
 Links ([@volvob12b][links-credit])
 :arrow_left: This Picture ([@rhodes][images-credit])
 
@@ -234,8 +263,6 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [//]: # ( ------------------------------------------------------------------- )
 [title]: images/title.jpg
 [title-credit]: https://flic.kr/p/jaYcP6
-[plugins]: images/plugins.jpg
-[plugins-credit]: https://flic.kr/p/7SQuUv
 [sensible]: images/sensible.jpg
 [sensible-credit]: https://flic.kr/p/dMBvmp
 [arrow-keys]: images/arrow_keys.jpg
@@ -244,6 +271,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [help-credit]: https://flic.kr/p/3q8dM
 [modal]: images/modal.jpg
 [modal-credit]: https://flic.kr/p/bZDVDs
+[plugins]: images/plugins.jpg
+[plugins-credit]: https://flic.kr/p/7SQuUv
 [links]: images/links.jpg
 [links-credit]: https://flic.kr/p/fTfXkN
 [images]: images/images.jpg
