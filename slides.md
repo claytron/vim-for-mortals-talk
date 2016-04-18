@@ -175,6 +175,12 @@ call plug#end()
 
 -------------------------------------------------------------------------------
 
+![][pillaging]
+
+# [fit] Pillaging `.vimrc`
+
+-------------------------------------------------------------------------------
+
 # [fit] THE END
 
 -------------------------------------------------------------------------------
@@ -220,6 +226,7 @@ Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 Help ([@carbonated][help-credit])
 Modal ([@chrisobayda][modal-credit])
 Plugins ([@chicagobart][plugins-credit])
+Pillaging ([Damian Gadal][pillaging-credit])
 Links ([@volvob12b][links-credit])
 :arrow_left: This Picture ([@rhodes][images-credit])
 
@@ -273,6 +280,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [modal-credit]: https://flic.kr/p/bZDVDs
 [plugins]: images/plugins.jpg
 [plugins-credit]: https://flic.kr/p/7SQuUv
+[pillaging]: images/pillaging.jpg
+[pillaging-credit]: https://flic.kr/p/58ifNU
 [links]: images/links.jpg
 [links-credit]: https://flic.kr/p/fTfXkN
 [images]: images/images.jpg
