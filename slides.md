@@ -229,7 +229,7 @@ Thanks to [![][flickr-logo]][flickr]<br>and [![][cc-logo]][cc]
 
 -------------------------------------------------------------------------------
 
-[![inline 400%][cc-by-sa-4-0-logo]][cc-by-sa-4-0]
+[![inline 200%][cc-by-sa-4-0-logo]][cc-by-sa-4-0]
 
 Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa-4-0].
 
