@@ -76,7 +76,7 @@ VimIndy Slack.
 
 Use [vim-sensible][vim-sensible] to start out.
 
-Or go all in with [Janus][janus] or [spf13][spf13].
+Or go all in with [Vim Bootstrap][vim-bootstrap], [Janus][janus] or [spf13][spf13].
 
 ^ Sensible is a nice starting point.
 Janus is over the top and opinionated.
@@ -266,6 +266,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [vim-tutor-mode]: https://github.com/fmoralesc/vim-tutor-mode
 [neovim]: https://neovim.io
 [vim-sensible]: https://github.com/tpope/vim-sensible/
+[vim-bootstrap]: http://vim-bootstrap.com/
 [janus]: https://github.com/carlhuda/janus/
 [spf13]: https://github.com/spf13/spf13-vim
 [vi-stackexchange]: https://vi.stackexchange.com
