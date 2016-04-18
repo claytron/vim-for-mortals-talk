@@ -235,15 +235,15 @@ call plug#end()
 
 # Photo Credits
 
-Title ([B.B. Wijdieks][title-credit])
-Sensible ([@matt_gibson][sensible-credit])
-Arrow Keys ([@regocasasnovas][arrow-keys-credit])
-Help ([@carbonated][help-credit])
-Modal ([@chrisobayda][modal-credit])
-Do you speak it? ([@reallyboring][speak-vim-credit])
-Plugins ([@chicagobart][plugins-credit])
-Pillaging ([Damian Gadal][pillaging-credit])
-Links ([@volvob12b][links-credit])
+![][title] Title ([B.B. Wijdieks][title-credit])
+![][sensible] Sensible ([@matt_gibson][sensible-credit])
+![][arrow-keys] Arrow Keys ([@regocasasnovas][arrow-keys-credit])
+![][help] Help ([@carbonated][help-credit])
+![][modal] Modal ([@chrisobayda][modal-credit])
+![][speak-vim] Do you speak it? ([@reallyboring][speak-vim-credit])
+![][plugins] Plugins ([@chicagobart][plugins-credit])
+![][pillaging] Pillaging ([Damian Gadal][pillaging-credit])
+![][links] Links ([@volvob12b][links-credit])
 :arrow_left: This Picture ([@rhodes][images-credit])
 
 Thanks to [![][flickr-logo]][flickr]<br>and [![][cc-logo]][cc]
