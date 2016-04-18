@@ -90,6 +90,56 @@ Janus is over the top and opinionated.
 ^ Don't worry about forcing `hjkl` at first!
 We want to make the switch as easy as possible.
 
+-------------------------------------------------------------------------------
+
+![350%][modal]
+
+# [fit] **Modal** Editing
+
+^ This is what makes Vim powerful.
+But confuses newbies.
+
+-------------------------------------------------------------------------------
+
+**Normal**
+Visual
+Select
+**Insert**
+**Command**
+Ex
+
+^ Vim has 6 basic modes.
+We'll focus on these three.
+
+-------------------------------------------------------------------------------
+
+> How do you generate a random string?
+> Put a first year CS student in front of Vim and tell him to save and exit.
+
+-------------------------------------------------------------------------------
+
+**Normal** Mode
+
+^ This is the mode you start in.
+And the start of the confusion.
+All your keys are now shortcuts.
+
+-------------------------------------------------------------------------------
+
+**Insert** Mode
+
+^ Just like it sounds.
+This is the only mode of most editors.
+
+-------------------------------------------------------------------------------
+
+**Command** Mode
+
+^ This is a way to interact with Vim.
+Run commands, change settings, etc.
+
+-------------------------------------------------------------------------------
+
 ![][plugins]
 
 ## [fit] Plugins
@@ -140,6 +190,7 @@ Plugins ([@chicagobart][plugins-credit])
 Sensible ([@matt_gibson][sensible-credit])
 Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 Help ([@carbonated][help-credit])
+Modal ([@chrisobayda][modal-credit])
 Links ([@volvob12b][links-credit])
 :arrow_left: This Picture ([@rhodes][images-credit])
 
@@ -191,6 +242,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [arrow-keys-credit]: https://flic.kr/p/7vSVVd
 [help]: images/help.jpg
 [help-credit]: https://flic.kr/p/3q8dM
+[modal]: images/modal.jpg
+[modal-credit]: https://flic.kr/p/bZDVDs
 [links]: images/links.jpg
 [links-credit]: https://flic.kr/p/fTfXkN
 [images]: images/images.jpg
