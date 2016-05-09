@@ -5,7 +5,7 @@ autoscale: true
 # [fit] Vim for
 # [fit] Mere Mortals
 
-[@VimIndy][vimindy] 05.2016
+[@VimIndy][vimindy] 06.2016
 
 -------------------------------------------------------------------------------
 

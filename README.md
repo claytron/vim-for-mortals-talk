@@ -1,6 +1,6 @@
 # Vim for Mere Mortals
 
-Talk given at [VimIndy][vimindy] on 05.2016
+Talk given at [VimIndy][vimindy] on 06.2016
 
 Watch the [video][video],
 see the [PDF][pdf] or check it out on [slideshare][slideshare]
