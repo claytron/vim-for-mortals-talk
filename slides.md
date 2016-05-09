@@ -64,6 +64,12 @@ Some plugins have written tutorials.
 
 -------------------------------------------------------------------------------
 
+![900%][first-aid]
+
+# [fit] Help!
+
+-------------------------------------------------------------------------------
+
 `:help`
 
 ^ There is always help available.
@@ -256,6 +262,7 @@ call plug#end()
 
 ![][title] Title ([B.B. Wijdieks][title-credit])
 ![][fundamentals] Fundamentals ([@nobida][fundamentals-credit])
+![][first-aid] Help ([@mountaineer4061][first-aid-credit])
 ![][sensible] Sensible ([@matt_gibson][sensible-credit])
 ![][arrow-keys] Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 ![][help] Help ([@carbonated][help-credit])
@@ -320,6 +327,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [title-credit]: https://flic.kr/p/jaYcP6
 [fundamentals]: images/fundamentals.jpg
 [fundamentals-credit]: https://flic.kr/p/cmBpNL
+[first-aid]: images/first_aid.jpg
+[first-aid-credit]: https://flic.kr/p/5qrhwr
 [sensible]: images/sensible.jpg
 [sensible-credit]: https://flic.kr/p/dMBvmp
 [arrow-keys]: images/arrow_keys.jpg
