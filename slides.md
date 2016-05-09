@@ -76,9 +76,49 @@ Some plugins have written tutorials.
 
 -------------------------------------------------------------------------------
 
+`:help help`
+
+-------------------------------------------------------------------------------
+
+```
+For any topic :help syntastic
+For an option :help 'syntastic_ignore_files'
+For a command :help :SyntasticInfo
+```
+
+^ Help subjects have syntax.
+
+-------------------------------------------------------------------------------
+
+`:helpgrep syntastic.*checker\c`
+
+^ Search through the help.
+It is hardcore, like vim itself.
+
+-------------------------------------------------------------------------------
+
 `:tab help intro`
 
 ^ Easier to read in a tab.
+
+-------------------------------------------------------------------------------
+
+```vim
+1. Help commands					*online-help*
+
+			*help* *<Help>* *:h* *:help* *<F1>* *i_<F1>* *i_<Help>*
+<Help>		or
+:h[elp]		Open a window and display the help file in read-only
+			mode.  If there is a help window open already, use
+			that one.  Otherwise, if the current window uses the
+			full width of the screen or is at least 80 characters
+			wide, the help window will appear just above the
+			current window.  Otherwise the new window is put at
+			the very top.
+```
+
+^ Quick aside.
+Most commands have shortcuts.
 
 -------------------------------------------------------------------------------
 
