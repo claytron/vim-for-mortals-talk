@@ -33,6 +33,20 @@ Don't rage `:quit!` just yet...
 
 -------------------------------------------------------------------------------
 
+![350%][fundamentals]
+
+# [fit] Fundamentals
+
+-------------------------------------------------------------------------------
+
+> You start by learning the minimal to survive, then you integrate all the tricks slowly.
+-- [Learn Vim Progressively][learn-vim-progressively]
+
+^ Excellent post.
+You Should read it!
+
+-------------------------------------------------------------------------------
+
 `$ vimtutor`
 
 ^ Get used to the default controls.
@@ -241,6 +255,7 @@ call plug#end()
 # Photo Credits
 
 ![][title] Title ([B.B. Wijdieks][title-credit])
+![][fundamentals] Fundamentals ([@nobida][fundamentals-credit])
 ![][sensible] Sensible ([@matt_gibson][sensible-credit])
 ![][arrow-keys] Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 ![][help] Help ([@carbonated][help-credit])
@@ -303,6 +318,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [//]: # ( ------------------------------------------------------------------- )
 [title]: images/title.jpg
 [title-credit]: https://flic.kr/p/jaYcP6
+[fundamentals]: images/fundamentals.jpg
+[fundamentals-credit]: https://flic.kr/p/cmBpNL
 [sensible]: images/sensible.jpg
 [sensible-credit]: https://flic.kr/p/dMBvmp
 [arrow-keys]: images/arrow_keys.jpg
