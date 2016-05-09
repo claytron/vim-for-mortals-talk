@@ -25,7 +25,7 @@ Vim Evangelist
 
 ^ Steep learning curve.
 Take it one step at a time.
-Here are some resources to help you out.
+Vim used in other editors, not reverse.
 
 -------------------------------------------------------------------------------
 
@@ -115,6 +115,9 @@ We'll focus on these three.
 -------------------------------------------------------------------------------
 
 > How do you generate a random string?
+
+-------------------------------------------------------------------------------
+
 > Put a first year CS student in front of Vim and tell them to save and exit.
 
 -------------------------------------------------------------------------------
@@ -184,7 +187,7 @@ Just use `vim-plug`!
 ```vim
 call plug#begin()
 Plug 'tpope/vim-sensible'
-Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/syntastic'
 call plug#end()
 ```
 
@@ -257,6 +260,14 @@ Thanks to [![][flickr-logo]][flickr]<br>and [![][cc-logo]][cc]
 [![inline 200%][cc-by-sa-4-0-logo]][cc-by-sa-4-0]
 
 Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa-4-0].
+
+-------------------------------------------------------------------------------
+
+```
+											*bar*
+|			To screen column [count] in the current line.
+			|exclusive| motion.  Ceci n'est pas une pipe.
+```
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
