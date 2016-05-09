@@ -227,6 +227,10 @@ Run commands, change settings, etc.
 
 -------------------------------------------------------------------------------
 
+`:help motion.txt`
+
+-------------------------------------------------------------------------------
+
 `ggguG`
 
 <sub>the jerry yang treatment.</sub>
@@ -274,8 +278,9 @@ Change for instance.
 
 -------------------------------------------------------------------------------
 
-`cw ciw c2w cg_ cG`
-`vw viw v2w vg_ vG`
+`cw   ciw   c2w   cg_   cG`
+
+`vw   viw   v2w   vg_   vG`
 
 ^ Several options with `change` or `visual`
 
@@ -284,6 +289,18 @@ Change for instance.
 `68i-<Esc>`
 
 <sub>Add an ascii bar</sub>
+
+-------------------------------------------------------------------------------
+
+```
+        2d3w
+        │││└─ Motion
+        ││└─ Count
+        │└─ Operator
+        └─ Count
+```
+
+^ Reviewing what we learned.
 
 -------------------------------------------------------------------------------
 
