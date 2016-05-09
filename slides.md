@@ -39,7 +39,8 @@ Don't rage `:quit!` just yet...
 
 -------------------------------------------------------------------------------
 
-> You start by learning the minimal to survive, then you integrate all the tricks slowly.
+> You start by learning the minimal to survive,
+> then you integrate all the tricks slowly.
 -- [Learn Vim Progressively][learn-vim-progressively]
 
 ^ Excellent post.
@@ -64,9 +65,9 @@ Some plugins have written tutorials.
 
 -------------------------------------------------------------------------------
 
-![900%][first-aid]
+![500%][first-aid]
 
-# [fit] Help!
+# Help!
 
 -------------------------------------------------------------------------------
 
@@ -119,6 +120,7 @@ It is hardcore, like vim itself.
 
 ^ Quick aside.
 Most commands have shortcuts.
+Top of `:help` explains how to navigate it.
 
 -------------------------------------------------------------------------------
 
@@ -194,6 +196,10 @@ We'll focus on these three.
 -------------------------------------------------------------------------------
 
 > Put a first year CS student in front of Vim and tell them to save and exit.
+
+-------------------------------------------------------------------------------
+
+`#normalmodeproblems`
 
 -------------------------------------------------------------------------------
 
@@ -294,10 +300,10 @@ Change for instance.
 
 ```
         2d3w
-        │││└─ Motion
-        ││└─ Count
-        │└─ Operator
-        └─ Count
+        │││└─ motion
+        ││└─ count
+        │└─ operator
+        └─ count
 ```
 
 ^ Reviewing what we learned.
