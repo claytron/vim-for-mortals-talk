@@ -145,31 +145,6 @@ Janus is over the top and opinionated.
 
 -------------------------------------------------------------------------------
 
-![][arrow-keys]
-
-# **Arrow** Keys?
-
-^ Don't worry about forcing `hjkl` at first!
-We want to make the switch as easy as possible.
-Turn on `hardmode` if you want.
-
--------------------------------------------------------------------------------
-
-> Experienced users prefer the hjkl keys because they are always right under their fingers.
-
--------------------------------------------------------------------------------
-
-> Beginners often prefer the arrow keys,
-> because they do not know what the hjkl keys do.
-
--------------------------------------------------------------------------------
-
-> The mnemonic value of hjkl is clear from looking at the keyboard.
-> Think of j as an arrow pointing downwards.
--- :help motion.txt
-
--------------------------------------------------------------------------------
-
 ![350%][modal]
 
 # [fit] **Modal** Editing
@@ -307,6 +282,31 @@ Change for instance.
 ```
 
 ^ Reviewing what we learned.
+
+-------------------------------------------------------------------------------
+
+![][arrow-keys]
+
+# **Arrow** Keys?
+
+^ Don't worry about forcing `hjkl` at first!
+We want to make the switch as easy as possible.
+Turn on `hardmode` if you want.
+
+-------------------------------------------------------------------------------
+
+> Experienced users prefer the hjkl keys because they are always right under their fingers.
+
+-------------------------------------------------------------------------------
+
+> Beginners often prefer the arrow keys,
+> because they do not know what the hjkl keys do.
+
+-------------------------------------------------------------------------------
+
+> The mnemonic value of hjkl is clear from looking at the keyboard.
+> Think of j as an arrow pointing downwards.
+-- :help motion.txt
 
 -------------------------------------------------------------------------------
 
