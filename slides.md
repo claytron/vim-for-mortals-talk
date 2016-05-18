@@ -322,6 +322,17 @@ Learn at your own pace.
 
 -------------------------------------------------------------------------------
 
+# [fit] You **can** use your
+# MOUSE
+
+![85%][riot]
+
+^ Probably heresy to some.
+Turn it on and enjoy.
+No shame in using it!
+
+-------------------------------------------------------------------------------
+
 ![][plugins]
 
 ## [fit] Plugins
@@ -413,6 +424,7 @@ call plug#end()
 ![][modal] Modal ([@chrisobayda][modal-credit])
 ![][speak-vim] Do you speak it? ([@reallyboring][speak-vim-credit])
 ![][hjkl] hjkl ([@donpdonp][hjkl-credit])
+![][riot] mouse ([@kapy][riot-credit])
 ![][plugins] Plugins ([@chicagobart][plugins-credit])
 ![][pillaging] Pillaging ([Damian Gadal][pillaging-credit])
 ![][links] Links ([@volvob12b][links-credit])
@@ -486,6 +498,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [speak-vim-credit]: https://flic.kr/p/5bwqyZ
 [hjkl]: images/hjkl.jpg
 [hjkl-credit]: https://flic.kr/p/dpuv4X
+[riot]: images/riot.jpg
+[riot-credit]: https://flic.kr/p/cXxf5S
 [plugins]: images/plugins.jpg
 [plugins-credit]: https://flic.kr/p/7SQuUv
 [pillaging]: images/pillaging.jpg
