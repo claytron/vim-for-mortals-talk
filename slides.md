@@ -413,6 +413,7 @@ call plug#end()
 - [vim.org][vim]
 - [Neovim][neovim]
 - [Help always in a tab][vim-help-tab]
+- [My .vimrc][claytron-vimrc]
 - [VIM: Hard Mode][hard-mode]
 - [vim-galore: Everything you need to know about Vim][vim-galore]
 
@@ -482,6 +483,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [vimindy]: https://twitter.com/vimindy
 [claytron]: http://twitter.com/claytron
 [claytron-avatar]: images/claytron.jpg
+[claytron-vimrc]: https://github.com/claytron/dotfiles/tree/master/.vimrc
 [tinderbox]: images/TinderboxLogo.png
 [vim-logo]: images/vim-logo.png
 [vim]: http://www.vim.org/
