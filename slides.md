@@ -56,9 +56,14 @@ Build a strong basis in Vim usage.
 
 -------------------------------------------------------------------------------
 
+in [Neovim][neovim]
 `:Tutor`
 
-in [Neovim][neovim]
+<br/>
+
+command line
+`$ alias vimtutor='nvim -c Tutor'`
+
 
 ^ Built in to Neovim.
 Available as [vim-tutor-mode][vim-tutor-mode] plugin.
