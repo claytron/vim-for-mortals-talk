@@ -83,6 +83,30 @@ Some plugins have written tutorials.
 
 -------------------------------------------------------------------------------
 
+# Terminology
+
+![][terminology]
+
+-------------------------------------------------------------------------------
+
+A **buffer** is the in-memory text of a file.
+A **window** is a viewport on a buffer.
+A **tab page** is a collection of windows.
+
+`:help window`
+
+^ A tab is not a tab.
+
+-------------------------------------------------------------------------------
+
+![inline][vim-terms]
+
+-------------------------------------------------------------------------------
+
+![inline][vim-terms2]
+
+-------------------------------------------------------------------------------
+
 ![350%][modal]
 
 # [fit] **Modal** Editing
@@ -447,6 +471,7 @@ call plug#end()
 
 ![][title] Title ([B.B. Wijdieks][title-credit])
 ![][fundamentals] Fundamentals ([@nobida][fundamentals-credit])
+![][terminology] Terminology ([@nicklockey][terminology-credit])
 ![][modal] Modal ([@chrisobayda][modal-credit])
 ![][first-aid] Help ([@mountaineer4061][first-aid-credit])
 ![][help] Help ([@carbonated][help-credit])
@@ -505,6 +530,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [learn-to-speak-vim]: http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/
 [vim-text-objects]: http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
 [practical-vim]: https://pragprog.com/book/dnvim2/practical-vim-second-edition
+[vim-terms]: images/vim_terms.png
+[vim-terms2]: images/vim_terms2.png
 
 [//]: # ( Online Videos                                                       )
 [//]: # ( ------------------------------------------------------------------- )
@@ -515,6 +542,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [title-credit]: https://flic.kr/p/jaYcP6
 [fundamentals]: images/fundamentals.jpg
 [fundamentals-credit]: https://flic.kr/p/cmBpNL
+[terminology]: images/terminology.jpg
+[terminology-credit]: https://flic.kr/p/7VTmJx
 [first-aid]: images/first_aid.jpg
 [first-aid-credit]: https://flic.kr/p/5qrhwr
 [sensible]: images/sensible.jpg
