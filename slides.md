@@ -1,4 +1,5 @@
 autoscale: true
+theme: fira
 
 ![][title]
 
