@@ -8,35 +8,46 @@ theme: fira
 
 [@VimIndy][vimindy] 06.2016
 
+^ Goals:
+- Understand vim basics.
+- Some stumbling points.
+- Some touchy subjects.
+- Tools to learn more. Because you won't learn it all today.
+
 -------------------------------------------------------------------------------
 
 # [fit] __Who__ am I?
 
 ![][claytron-avatar]
 
-[@claytron][claytron] on the internets
+[@claytron][claytron] IRL and on the internets
 
 Senior Software Engineer at TinderBox ![fit][tinderbox]
 
 Vim Evangelist
 
 -------------------------------------------------------------------------------
-
-## [fit] ![inline][vim-logo] **is** hard.
+## [fit] ![inline][vim-logo]
+## [fit] is **~~hard~~** retro.
 
 ^ Steep learning curve.
-Take it one step at a time.
-Vim used in other editors, not reverse.
+Can be archaic.
+Very powerful, in many applications.
 
 -------------------------------------------------------------------------------
 
 Don't rage `:quit!` just yet...
+
+^ You are here to learn.
+You'll be awesome in no time.
 
 -------------------------------------------------------------------------------
 
 ![350%][fundamentals]
 
 # [fit] Fundamentals
+
+^ Start with the fundamentals.
 
 -------------------------------------------------------------------------------
 
@@ -46,6 +57,7 @@ Don't rage `:quit!` just yet...
 
 ^ Excellent post.
 You Should read it!
+I still don't know all the tricks!
 
 -------------------------------------------------------------------------------
 
@@ -53,6 +65,7 @@ You Should read it!
 
 ^ Get used to the default controls.
 Build a strong basis in Vim usage.
+If you do nothing else, do this!
 
 -------------------------------------------------------------------------------
 
@@ -107,6 +120,7 @@ It is hardcore, like vim itself.
 `:tab help intro`
 
 ^ Easier to read in a tab.
+Use abbreviation to always do it.
 
 -------------------------------------------------------------------------------
 
@@ -203,6 +217,7 @@ This is the only mode of most editors.
 
 ^ This is a way to interact with Vim.
 Run commands, change settings, etc.
+Prefixed with a colon.
 
 -------------------------------------------------------------------------------
 
@@ -215,6 +230,16 @@ Run commands, change settings, etc.
 -------------------------------------------------------------------------------
 
 `:help motion.txt`
+
+-------------------------------------------------------------------------------
+
+```
+        2d3w
+        │││└─ motion
+        ││└─ count
+        │└─ operator
+        └─ count
+```
 
 -------------------------------------------------------------------------------
 
