@@ -304,6 +304,17 @@ Turn on `hardmode` if you want.
 > because they do not know what the hjkl keys do.
 
 -------------------------------------------------------------------------------
+# [fit] VIM
+# [fit] WIZARD
+
+![][hjkl]
+
+> [1] a man who has magical powers, especially in legends and fairy tales
+
+^ Level 5 Vim Wizard.
+Learn at your own pace.
+
+-------------------------------------------------------------------------------
 
 > The mnemonic value of hjkl is clear from looking at the keyboard.
 > Think of j as an arrow pointing downwards.
@@ -401,6 +412,7 @@ call plug#end()
 ![][help] Help ([@carbonated][help-credit])
 ![][modal] Modal ([@chrisobayda][modal-credit])
 ![][speak-vim] Do you speak it? ([@reallyboring][speak-vim-credit])
+![][hjkl] hjkl ([@donpdonp][hjkl-credit])
 ![][plugins] Plugins ([@chicagobart][plugins-credit])
 ![][pillaging] Pillaging ([Damian Gadal][pillaging-credit])
 ![][links] Links ([@volvob12b][links-credit])
@@ -472,6 +484,8 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [modal-credit]: https://flic.kr/p/bZDVDs
 [speak-vim]: images/speak_vim.jpg
 [speak-vim-credit]: https://flic.kr/p/5bwqyZ
+[hjkl]: images/hjkl.jpg
+[hjkl-credit]: https://flic.kr/p/dpuv4X
 [plugins]: images/plugins.jpg
 [plugins-credit]: https://flic.kr/p/7SQuUv
 [pillaging]: images/pillaging.jpg
