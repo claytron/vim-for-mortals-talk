@@ -77,10 +77,65 @@ in [Neovim][neovim]
 command line
 `$ alias vimtutor='nvim -c Tutor'`
 
-
 ^ Built in to Neovim.
 Available as [vim-tutor-mode][vim-tutor-mode] plugin.
 Some plugins have written tutorials.
+
+-------------------------------------------------------------------------------
+
+![350%][modal]
+
+# [fit] **Modal** Editing
+
+^ This is what makes Vim powerful.
+But confuses newbies.
+
+-------------------------------------------------------------------------------
+
+**Normal**
+Visual
+Select
+**Insert**
+**Command**
+Ex
+
+^ Vim has 6 basic modes.
+We'll focus on these three.
+
+-------------------------------------------------------------------------------
+
+> How do you generate a random string?
+
+-------------------------------------------------------------------------------
+
+> Put a first year CS student in front of Vim and tell them to save and exit.
+
+-------------------------------------------------------------------------------
+
+`#normalmodeproblems`
+
+-------------------------------------------------------------------------------
+
+**Normal** Mode
+
+^ This is the mode you start in.
+And the start of the confusion.
+All your keys are now shortcuts.
+
+-------------------------------------------------------------------------------
+
+**Insert** Mode
+
+^ Just like it sounds.
+This is the only mode of most editors.
+
+-------------------------------------------------------------------------------
+
+**Command** Mode
+
+^ This is a way to interact with Vim.
+Run commands, change settings, etc.
+Prefixed with a colon.
 
 -------------------------------------------------------------------------------
 
@@ -151,73 +206,6 @@ VimIndy Slack.
 `#vim` on Freenode.
 
 [Vi and Vim][vi-stackexchange] StackExchange.
-
--------------------------------------------------------------------------------
-
-![][sensible]
-
-Use [vim-sensible][vim-sensible] to start out.
-
-Or go all in with [Vim Bootstrap][vim-bootstrap], [Janus][janus] or [spf13][spf13].
-
-^ Sensible is a nice starting point.
-Janus is over the top and opinionated.
-
--------------------------------------------------------------------------------
-
-![350%][modal]
-
-# [fit] **Modal** Editing
-
-^ This is what makes Vim powerful.
-But confuses newbies.
-
--------------------------------------------------------------------------------
-
-**Normal**
-Visual
-Select
-**Insert**
-**Command**
-Ex
-
-^ Vim has 6 basic modes.
-We'll focus on these three.
-
--------------------------------------------------------------------------------
-
-> How do you generate a random string?
-
--------------------------------------------------------------------------------
-
-> Put a first year CS student in front of Vim and tell them to save and exit.
-
--------------------------------------------------------------------------------
-
-`#normalmodeproblems`
-
--------------------------------------------------------------------------------
-
-**Normal** Mode
-
-^ This is the mode you start in.
-And the start of the confusion.
-All your keys are now shortcuts.
-
--------------------------------------------------------------------------------
-
-**Insert** Mode
-
-^ Just like it sounds.
-This is the only mode of most editors.
-
--------------------------------------------------------------------------------
-
-**Command** Mode
-
-^ This is a way to interact with Vim.
-Run commands, change settings, etc.
-Prefixed with a colon.
 
 -------------------------------------------------------------------------------
 
@@ -363,6 +351,17 @@ No shame in using it!
 
 -------------------------------------------------------------------------------
 
+![][sensible]
+
+Use [vim-sensible][vim-sensible] to start out.
+
+Or go all in with [Vim Bootstrap][vim-bootstrap], [Janus][janus] or [spf13][spf13].
+
+^ Sensible is a nice starting point.
+Janus is over the top and opinionated.
+
+-------------------------------------------------------------------------------
+
 ![][plugins]
 
 ## [fit] Plugins
@@ -447,14 +446,14 @@ call plug#end()
 
 ![][title] Title ([B.B. Wijdieks][title-credit])
 ![][fundamentals] Fundamentals ([@nobida][fundamentals-credit])
-![][first-aid] Help ([@mountaineer4061][first-aid-credit])
-![][sensible] Sensible ([@matt_gibson][sensible-credit])
-![][arrow-keys] Arrow Keys ([@regocasasnovas][arrow-keys-credit])
-![][help] Help ([@carbonated][help-credit])
 ![][modal] Modal ([@chrisobayda][modal-credit])
+![][first-aid] Help ([@mountaineer4061][first-aid-credit])
+![][help] Help ([@carbonated][help-credit])
 ![][speak-vim] Do you speak it? ([@reallyboring][speak-vim-credit])
+![][arrow-keys] Arrow Keys ([@regocasasnovas][arrow-keys-credit])
 ![][hjkl] hjkl ([@donpdonp][hjkl-credit])
 ![][riot] mouse ([@kapy][riot-credit])
+![][sensible] Sensible ([@matt_gibson][sensible-credit])
 ![][plugins] Plugins ([@chicagobart][plugins-credit])
 ![][pillaging] Pillaging ([Damian Gadal][pillaging-credit])
 ![][links] Links ([@volvob12b][links-credit])
