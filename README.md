@@ -11,6 +11,6 @@ This presentation was created using [Deckset][deckset] and [this Markdown file](
 
 [vimindy]: https://twitter.com/vimindy
 [video]: #
-[pdf]: #
+[pdf]: slides.pdf
 [slideshare]: #
 [deckset]: http://www.decksetapp.com/
