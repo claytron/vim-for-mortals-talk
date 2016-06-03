@@ -1,4 +1,4 @@
-# Vim for Mere Mortals
+![](images/intro_slide.png)
 
 Talk given at [VimIndy][vimindy] on 06.2016
 
