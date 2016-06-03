@@ -346,6 +346,13 @@ Turn on `hardmode` if you want.
 > because they do not know what the hjkl keys do.
 
 -------------------------------------------------------------------------------
+
+> The mnemonic value of hjkl is clear from looking at the keyboard.
+> Think of j as an arrow pointing downwards.
+-- :help motion.txt
+
+-------------------------------------------------------------------------------
+
 # [fit] VIM
 # [fit] WIZARD
 
@@ -358,11 +365,6 @@ Learn at your own pace.
 
 -------------------------------------------------------------------------------
 
-> The mnemonic value of hjkl is clear from looking at the keyboard.
-> Think of j as an arrow pointing downwards.
--- :help motion.txt
-
--------------------------------------------------------------------------------
 
 # [fit] You **can** use your
 # MOUSE
@@ -507,10 +509,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [//]: # ( ------------------------------------------------------------------- )
 [vimindy]: https://twitter.com/vimindy
 [claytron]: http://twitter.com/claytron
-[claytron-avatar]: images/claytron.jpg
 [claytron-vimrc]: https://github.com/claytron/dotfiles/tree/master/.vimrc
-[tinderbox]: images/TinderboxLogo.png
-[vim-logo]: images/vim-logo.png
 [vim]: http://www.vim.org/
 [vim-tutor-mode]: https://github.com/fmoralesc/vim-tutor-mode
 [neovim]: https://neovim.io
@@ -530,6 +529,10 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [learn-to-speak-vim]: http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/
 [vim-text-objects]: http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
 [practical-vim]: https://pragprog.com/book/dnvim2/practical-vim-second-edition
+
+[claytron-avatar]: images/claytron.jpg
+[tinderbox]: images/TinderboxLogo.png
+[vim-logo]: images/vim-logo.png
 [vim-terms]: images/vim_terms.png
 [vim-terms2]: images/vim_terms2.png
 
