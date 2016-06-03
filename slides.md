@@ -459,6 +459,7 @@ call plug#end()
 ### Articles / Books
 
 - [Learn Vim Progressively][learn-vim-progressively]
+- [Learn Vim the Hard Way][lvthw]
 - [Coming Home to Vim][coming-home-to-vim]
 - [Everyone Who Tried to Convince Me to use Vim was Wrong][yehuda-rant]
 - [Learn to Speak Vim][learn-to-speak-vim]
@@ -529,6 +530,7 @@ Vim for Mere Mortals by [claytron][claytron] is licensed under a [Creative Commo
 [learn-to-speak-vim]: http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/
 [vim-text-objects]: http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
 [practical-vim]: https://pragprog.com/book/dnvim2/practical-vim-second-edition
+[lvthw]: http://learnvimscriptthehardway.stevelosh.com/
 
 [claytron-avatar]: images/claytron.jpg
 [tinderbox]: images/TinderboxLogo.png
