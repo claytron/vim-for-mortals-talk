@@ -24,7 +24,7 @@ theme: fira
 
 Senior Software Engineer at TinderBox ![fit][tinderbox]
 
-Vim Evangelist
+Vimmer ca. 2003
 
 -------------------------------------------------------------------------------
 ## [fit] ![inline][vim-logo]
