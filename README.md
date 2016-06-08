@@ -12,5 +12,5 @@ This presentation was created using [Deckset][deckset] and [this Markdown file](
 [vimindy]: https://twitter.com/vimindy
 [video]: #
 [pdf]: vim_for_mere_mortals.pdf
-[slideshare]: #
+[slideshare]: http://www.slideshare.net/claytron/vim-for-mere-mortals
 [deckset]: http://www.decksetapp.com/
